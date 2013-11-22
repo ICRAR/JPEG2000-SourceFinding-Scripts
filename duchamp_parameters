@@ -1,0 +1,5 @@
+minVoxels     7
+flagAdjacent  true
+snrCut        5
+scaleMin      2
+scaleMax      6
